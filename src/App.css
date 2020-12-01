@@ -30,6 +30,10 @@ body{
 .App-link {
   color: #61dafb;
 }
+a{
+  text-decoration: none;
+  color: #282c34;
+}
 
 @keyframes App-logo-spin {
   from {
